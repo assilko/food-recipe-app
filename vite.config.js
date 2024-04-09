@@ -8,4 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss('./tailwind.config.js'),
   ],
+  base: "/food-recipe-app"
 })
