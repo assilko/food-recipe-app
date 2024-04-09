@@ -1,6 +1,7 @@
 # Recipe Search Application
 
 This application allows users to search for recipes based on ingredients and view recipe details. It is built using React and Tailwind CSS.
+Live URL: https://assilko.github.io/food-recipe-app/
 
 ## Features
 
